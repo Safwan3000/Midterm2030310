@@ -84,3 +84,15 @@ header{
         width: 100%;
         border-radius: 8px;
       }
+      .form-group {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding: 20px;
+        font-family: 'Open Sans', sans-serif;
+      }
+      
+      .form-group img {
+        width: 300px;
+        margin: 10px;
+      }
