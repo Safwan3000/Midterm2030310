@@ -9,14 +9,14 @@ body {
    background-color: #4d4d4d;
  }
 header{
-    font-family: "Noto", sans-serif;
-    background-color: #f7e58ab8;
+    font-family: "Noto Serif", sans-serif;
+    background-color: #f7e58a6d;
     color: white;
     text-align: center;
     padding: 1em;
   }
   footer {
-      background-color: #f7e58ab8;
+      background-color: #f7e58a6d;
       color: white;
       text-align: center;
       padding: 1em;
@@ -40,3 +40,37 @@ header{
         background-color: #555;
         border-radius: 5px;
       }  
+      p1{
+        margin: 10px;
+        font-size: xx-large;
+        font-family: "Doto", sans-serif ;}
+    .Galaxy-AI {
+      font-size: x-large;
+        display: flex;
+      flex-direction: row;
+      align-items: center;
+      padding: 20px;
+      text-align: center;
+    }
+    
+    .Galaxy-AI img {
+        display: flex;
+      flex-direction: row;
+        width: 400px;
+      height: 400px;
+      margin: 10px;
+    }
+    .Titanium {
+        font-size: x-large;
+        display: flex;
+      flex-direction: row;
+      align-items: center;
+      padding: 20px;
+      text-align: center;
+    }
+    .Titanium img {
+        width: 500px;
+        height: 400px;
+        margin: 10px;
+      }
+    
